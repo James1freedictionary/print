@@ -1,4 +1,4 @@
-module github.com/James1freedictionary/print
+module github.com/James1freedictionary/printnew
 
 go 1.23.1
 
